@@ -1,0 +1,8 @@
+.location {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    width: 450px;
+    padding: 10px;
+}
